@@ -1,3 +1,2 @@
-# Bash
-Push and Pull 1
+# Bash!
 bash learning
